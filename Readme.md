@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Felix</h1>
+
 ## 💫 About Me:
 I am a dual student from Germany currently pursuing  my bachelor's degree in Business Informatics. Through my program, I combine university studies with practical work in a company, which lets me apply theoretical knowledge directly in real projects. I am especially interested in software development, IT systems and the connection between technology and business.
 

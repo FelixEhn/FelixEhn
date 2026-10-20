@@ -20,8 +20,8 @@ I build software for live events and work in event technology myself. Volunteer 
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="assets/now-cuex-hell.png">
-  <img alt="Now building: CueX – show control for live events" src="assets/now-cuex-dunkel.png" width="100%">
+  <source media="(prefers-color-scheme: light)" srcset="assets/projects-hell.png">
+  <img alt="Now building: CueX – show control for live events · ScriptX – scripts & cues for every department" src="assets/projects-dunkel.png" width="100%">
 </picture>
 
 <br><br>

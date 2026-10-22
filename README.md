@@ -35,7 +35,7 @@ I build software for live events and work in event technology myself.
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/offstage-hell-v4.png">
-  <img alt="Off stage: THW Eberbach · Event technology · DHBW Mosbach" src="assets/offstage-dunkel-v4.png" width="100%">
+  <img alt="Off stage: THW · Event technology · DHBW" src="assets/offstage-dunkel-v4.png" width="100%">
 </picture>
 
 <br><br>
